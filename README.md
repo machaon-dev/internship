@@ -12,7 +12,7 @@
 
 Сейчас у нас открыто три вакансии:
 
-- [Junior Web Developer](https://kirov.hh.ru/vacancy/36091764)
+- [Junior Web Developer](https://kirov.hh.ru/vacancy/38023247)
 
 - [Middle Frontend Developer](https://kirov.hh.ru/vacancy/37897775)
 
