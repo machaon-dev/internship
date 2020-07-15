@@ -14,9 +14,9 @@
 
 - [Junior Web Developer](https://kirov.hh.ru/vacancy/36091764)
 
-- [Middle Frontend Developer](https://kirov.hh.ru/vacancy/35930933)
+- [Middle Frontend Developer](https://kirov.hh.ru/vacancy/37897775)
 
-- [Middle Backend Developer](https://kirov.hh.ru/vacancy/35915897)
+- [Middle Backend Developer](https://kirov.hh.ru/vacancy/37739587)
 
 Если ты не узнаёшь в них себя, но хочешь у нас работать — смело откликайся. Мы открыты к диалогу и найдем применение твоим навыкам.
 
