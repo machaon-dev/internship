@@ -32,6 +32,14 @@ return [
     "user" => "admin",
     "password" => "ifghigh8y8rt347ghi",
     "name" => "my_database"
+  ],
+  "app" => [
+    "services" => [
+      "resizer" => [
+        "prefer_format" => "webp",
+        "fallback_format" => "jpeg"
+      ]
+    ]
   ]
 ];
 ```
@@ -42,6 +50,8 @@ return [
 echo config("site_url"); // http://mysite.ru
 
 echo config("db.user"); // admin
+
+echo config("app.services.resizer.fallback_format"); // jpeg
 ```
 
 Должна быть возможность указать значение по-умолчанию, которое вернется, если опции в файле нет:
