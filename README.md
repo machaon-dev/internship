@@ -28,6 +28,10 @@
 return [
   "site_name" => "My site",
   "site_url" => "http://mysite.ru",
+  "assets" => [
+    "version" => 2,
+    "minify" => true,
+  ],
   "db" => [
     "user" => "admin",
     "password" => "ifghigh8y8rt347ghi",
